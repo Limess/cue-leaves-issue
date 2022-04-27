@@ -29,7 +29,7 @@ results in:
 "(b)"
 ```
 
-I feel I’m conceptually misunderstanding something here, it looks like each leaf, and then also something else ([]) is being evaluated separately? I’d expected this to result:
+I feel I’m conceptually misunderstanding something here, it looks like each leaf, and then also something else (`[]`) is being evaluated separately? I’d expected this to result:
 
 ```shell
 (a|b)
